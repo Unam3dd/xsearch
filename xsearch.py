@@ -1,7 +1,6 @@
 #!/usr/bin/python2
 #-*- coding:utf-8 -*-
 
-import hashlib
 import platform
 import os
 import sys
